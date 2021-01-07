@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "utJvIns9WEKlzPmTe7JmpRJNVVkNSNpFwHjLg3LYbU30M704Sctg8V4GR5nE2OGJg+33K/i62hzhhJT87aJZJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Matt\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Matt\\.nuget\\packages\\xamarin.essentials\\1.6.0\\xamarin.essentials.1.6.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

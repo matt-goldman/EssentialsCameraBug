@@ -1,0 +1,14 @@
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\bin\Debug\netstandard2.0\EssentialsCameraBug.deps.json
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\bin\Debug\netstandard2.0\EssentialsCameraBug.dll
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\bin\Debug\netstandard2.0\ref\EssentialsCameraBug.dll
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\bin\Debug\netstandard2.0\EssentialsCameraBug.pdb
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\obj\Debug\netstandard2.0\EssentialsCameraBug.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\obj\Debug\netstandard2.0\EssentialsCameraBug.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\obj\Debug\netstandard2.0\EssentialsCameraBug.AssemblyInfo.cs
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\obj\Debug\netstandard2.0\EssentialsCameraBug.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\obj\Debug\netstandard2.0\EssentialsCameraBug.dll
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\obj\Debug\netstandard2.0\ref\EssentialsCameraBug.dll
+C:\Users\Matt\source\repos\EssentialsCameraBug\EssentialsCameraBug\EssentialsCameraBug\obj\Debug\netstandard2.0\EssentialsCameraBug.pdb
