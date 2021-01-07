@@ -1993,39 +1993,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Matt\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/mattgoldman/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.Android\\EssentialsCameraBug.Android.csproj",
+      "projectUniqueName": "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.Android/EssentialsCameraBug.Android.csproj",
       "projectName": "EssentialsCameraBug.Android",
-      "projectPath": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.Android\\EssentialsCameraBug.Android.csproj",
-      "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.Android\\obj\\",
+      "projectPath": "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.Android/EssentialsCameraBug.Android.csproj",
+      "packagesPath": "/Users/mattgoldman/.nuget/packages/",
+      "outputPath": "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/mattgoldman/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.csproj": {
-              "projectPath": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.csproj"
+            "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.csproj": {
+              "projectPath": "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.csproj"
             }
           }
         }

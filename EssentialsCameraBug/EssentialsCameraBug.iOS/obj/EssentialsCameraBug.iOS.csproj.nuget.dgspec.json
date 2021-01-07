@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.iOS\\EssentialsCameraBug.iOS.csproj": {}
+    "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.iOS/EssentialsCameraBug.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.iOS\\EssentialsCameraBug.iOS.csproj": {
+    "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.iOS/EssentialsCameraBug.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.iOS\\EssentialsCameraBug.iOS.csproj",
+        "projectUniqueName": "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.iOS/EssentialsCameraBug.iOS.csproj",
         "projectName": "EssentialsCameraBug.iOS",
-        "projectPath": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.iOS\\EssentialsCameraBug.iOS.csproj",
-        "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.iOS\\obj\\",
+        "projectPath": "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.iOS/EssentialsCameraBug.iOS.csproj",
+        "packagesPath": "/Users/mattgoldman/.nuget/packages/",
+        "outputPath": "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/mattgoldman/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.csproj": {
-                "projectPath": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.csproj"
+              "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.csproj": {
+                "projectPath": "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.csproj"
               }
             }
           }
@@ -65,29 +59,22 @@
         }
       }
     },
-    "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.csproj": {
+    "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.csproj",
+        "projectUniqueName": "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.csproj",
         "projectName": "EssentialsCameraBug",
-        "projectPath": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug.csproj",
-        "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matt\\source\\repos\\EssentialsCameraBug\\EssentialsCameraBug\\EssentialsCameraBug\\obj\\",
+        "projectPath": "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug.csproj",
+        "packagesPath": "/Users/mattgoldman/.nuget/packages/",
+        "outputPath": "/Users/mattgoldman/Projects/EssentialsCameraBug/EssentialsCameraBug/EssentialsCameraBug/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/mattgoldman/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -131,7 +118,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

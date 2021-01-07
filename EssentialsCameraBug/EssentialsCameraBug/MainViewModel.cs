@@ -27,7 +27,7 @@ namespace EssentialsCameraBug
 
         private async Task TakePicture()
         {
-            var status = await Permissions.CheckStatusAsync<Permissions.Camera>();
+            var status = await Permissions.RequestAsync<Permissions.Camera>();
 
             if(status != PermissionStatus.Granted)
             {

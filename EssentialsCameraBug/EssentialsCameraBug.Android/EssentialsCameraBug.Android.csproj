@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -90,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EssentialsCameraBug\EssentialsCameraBug.csproj">
-      <Project>{7F40B268-B5D0-4706-846C-FB54F0F1D681}</Project>
+      <Project>{C23FC762-CB73-419D-B111-6E006E60883F}</Project>
       <Name>EssentialsCameraBug</Name>
     </ProjectReference>
   </ItemGroup>
